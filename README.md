@@ -1,1 +1,1 @@
-# Infinite-Game-by-Prakash-D
+# PRO-C37-INFINITE-RUNNER-GAME
